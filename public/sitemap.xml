@@ -30,16 +30,7 @@
     <loc>http://example.org/professional_experience/</loc>
     <lastmod>2022-01-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/c#/</loc>
-    <lastmod>2022-01-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://example.org/tags/c&#43;&#43;/</loc>
-    <lastmod>2022-01-03T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://example.org/professional_experience/blet/</loc>
-    <lastmod>2022-01-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://example.org/tags/</loc>
     <lastmod>2022-01-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://example.org/education/rtu/</loc>
@@ -52,5 +43,7 @@
     <lastmod>2002-01-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://example.org/categories/</loc>
+  </url><url>
+    <loc>http://example.org/tags/</loc>
   </url>
 </urlset>

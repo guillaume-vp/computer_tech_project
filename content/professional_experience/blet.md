@@ -3,7 +3,6 @@ title: "Embedded systems engineer intership"
 location: "BLET Measurement Group"
 date: 2022-01-03 
 draft: false
-tags : ["C++", "C#"]
 begin : 2021-04-12
 end : 2021-07-31
 ---
