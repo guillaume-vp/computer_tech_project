@@ -1,0 +1,41 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Computer Technologies Project'
+theme = 'anatole'
+
+[params]
+title = "Guillaume VAN PUTTEN"
+author = "Guillaume VAN PUTTEN"
+
+profilePicture = "images/profile.jpg"
+displayMode = "false"
+doNotLoadAnimations = "true"
+posts_per_cat = 2
+contentratio = 0.7
+disableComments= true
+customCss = ["css/custom.css"]
+[menu]
+
+  [[menu.main]]
+  name = "Home"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
+  [[menu.main]]
+  name = "Professional Experience"
+  weight = 200
+  identifier = "professional_experience"
+  url = "/professional_experience/"
+
+  [[menu.main]]
+  name = "Education"
+  weight = 300
+  identifier = "education"
+  url = "/education/"
+
+  [[menu.main]]
+  name = "Project"
+  weight = 300
+  identifier = "project"
+  url = "/school_project/"

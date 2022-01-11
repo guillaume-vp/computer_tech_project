@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>School_projects on Computer Technologies Project</title>
+    <link>http://example.org/school_project/</link>
+    <description>Recent content in School_projects on Computer Technologies Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Jan 2022 20:01:29 +0100</lastBuildDate><atom:link href="http://example.org/school_project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GPS application</title>
+      <link>http://example.org/school_project/gps_application/</link>
+      <pubDate>Mon, 10 Jan 2022 20:01:29 +0100</pubDate>
+      
+      <guid>http://example.org/school_project/gps_application/</guid>
+      
+        <description>Laborum laboris esse culpa irure excepteur non Lorem excepteur exercitation amet eiusmod minim exercitation in. Excepteur exercitation voluptate consequat eu elit consequat nisi. Ad pariatur aute officia nisi in incididunt amet ipsum fugiat consectetur deserunt anim commodo consequat. Voluptate ex velit esse anim ipsum. Nostrud occaecat sint aute aliquip fugiat laboris pariatur.
+Nisi nisi veniam culpa id nostrud dolor officia consequat tempor elit commodo veniam proident excepteur. Incididunt nostrud enim sint qui nulla.</description>
+      
+    </item>
+    
+    <item>
+      <title>Robot host</title>
+      <link>http://example.org/school_project/robot_host/</link>
+      <pubDate>Mon, 10 Jan 2022 19:59:08 +0100</pubDate>
+      
+      <guid>http://example.org/school_project/robot_host/</guid>
+      
+        <description>Enim adipisicing in quis aute elit mollit enim commodo deserunt dolore et tempor exercitation laborum. Aliquip culpa irure dolor nulla excepteur laborum do commodo aute. Ut occaecat minim ut veniam. Enim ea sint consequat consequat aute consectetur.
+Veniam sint nostrud sit labore quis nostrud Lorem et reprehenderit Lorem. Anim dolor ad Lorem mollit dolor. Id exercitation consequat aute nisi adipisicing cillum veniam esse ea eiusmod occaecat sint occaecat.
+Consequat nulla officia nostrud enim.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
