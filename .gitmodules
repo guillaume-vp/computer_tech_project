@@ -7,3 +7,6 @@
 [submodule "themes/harbor"]
 	path = themes/harbor
 	url = https://github.com/matsuyoshi30/harbor.git
+[submodule "themes/devresume"]
+	path = themes/devresume
+	url = https://github.com/cowboysmall-tools/hugo-devresume-theme
