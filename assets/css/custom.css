@@ -13,7 +13,7 @@
     display: inline;
   }
 
-.post .post-section h2 a{
+  .post .post-section h2 a{
     text-transform: uppercase;
     font-size: 1.5em;
     letter-spacing: 1px;
@@ -23,7 +23,7 @@
   }
 
   
-.post .post-section h1 a{
+  .post .post-section h1 a{
     text-transform: uppercase;
     font-size: 2em;
     letter-spacing: 1px;
@@ -53,3 +53,37 @@
     font-weight: 600;
     max-width: 800px;
   }
+
+  .post {
+    background-color: var(--bg-color);
+    margin: 30px;
+    margin-left: 100px;
+  }
+
+
+  .post .post-title h2 {
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 2.6rem;
+    line-height: 1;
+    font-weight: 600;
+  }
+
+  .post .post-title h3 {
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    line-height: 1;
+    font-weight: 600;
+    color: var(--heading-color);
+    font-size: 2.2rem;
+    margin: 0;
+    display:inline;
+  }
+
+
+  .sidebar .logo-title .title img {
+    width: 250px;
+    height: 250px;
+  }
+
+  
