@@ -1,6 +1,6 @@
 ---
 title: "Robot host"
-location : "ESILV/DaVinciBot"
+location : "ESILV / DaVinciBot"
 date: 2022-01-10T19:59:08+01:00
 draft: false
 begin : 2020-10-01

@@ -1,6 +1,6 @@
 ---
 title: "GPS application"
-location : "ESILV"
+location : "ESILV / Berger Lervaut"
 date: 2022-01-10T20:01:29+01:00
 draft: false
 begin: 2019-10-01
