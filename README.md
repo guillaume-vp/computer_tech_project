@@ -1,0 +1,3 @@
+I made this website using Hugo, an easy to use framework, allowing to create static websites, such as blogs, newsletters, etc...
+
+Link to the website : https://tender-turing-f2b970.netlify.app/
