@@ -1,9 +1,9 @@
 {{ define "main" }}
 
-
   <div class="post">
     <div class="post-section">
     <h1><a href="{{ .RelPermalink }}">
+      <!-- Nice display of Section title -->
         {{ if not (eq .Section "education")}} 
             {{pluralize (replace .Section "_" " ")}}
         {{else}}

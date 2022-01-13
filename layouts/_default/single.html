@@ -1,10 +1,13 @@
 {{ define "main" }}
   <div class="post">
     <div class="post-title">
+      <!-- Display Title, and for all pages except "about", location -->
       <h1>{{ .Title }} 
         {{if not (eq .Section "")}} - </h1>
       
       <h2>
+        <!-- There are shortened location and longer strings for some -->
+        <!-- ex: location:RTU, long_loc:Riga Technical University  -->
         {{if isset .Params "long_loc"}}
           {{.Params.long_loc}}
         {{else}}
@@ -14,7 +17,7 @@
       <div class="info">
         <em class="fas fa-calendar-day"></em>
         <span class="date">
-          
+            <!-- Same date format -->
             {{ time.Format "Jan, 2006" .Params.begin }} - 
             {{ if  (time .Params.end).Before now }}
               {{ time.Format "Jan, 2006" .Params.end }}
@@ -26,6 +29,7 @@
       </div>
       {{end}}
     </div>
+    <!-- Did not touch anything from here -->
       <div class="post-content">
       {{- partial "expirationnote.html" . -}}
 
