@@ -2,6 +2,17 @@
     --title-color: #54b689;
   }
 
+  .post .post-title h1{
+    text-transform: uppercase;
+    font-size: 3em;
+    letter-spacing: 1px;
+    line-height: 1;
+    color: var(--title-color);
+    font-weight: bold;
+    margin-bottom: 00px;
+    display: inline;
+  }
+
 .post .post-section h2 a{
     text-transform: uppercase;
     font-size: 1.5em;
@@ -29,6 +40,7 @@
     font-weight: bolder;
     margin-left: 40px;
     text-decoration: underline;
+    margin-left: 110px;
   }
 
   .post .post-title h3.location{
@@ -36,4 +48,8 @@
     color: var(--title-color);
   }
 
-  
+  .post .post-content {
+    font-size: 2.2rem;
+    font-weight: 600;
+    max-width: 800px;
+  }

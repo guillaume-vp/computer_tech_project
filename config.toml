@@ -23,7 +23,7 @@ customCss = ["css/custom.css"]
   url = "/"
 
   [[menu.main]]
-  name = "Professional Experience"
+  name = "Professional Experiences"
   weight = 200
   identifier = "professional_experience"
   url = "/professional_experience/"
@@ -35,7 +35,22 @@ customCss = ["css/custom.css"]
   url = "/education/"
 
   [[menu.main]]
-  name = "Project"
+  name = "Projects"
   weight = 300
   identifier = "project"
   url = "/school_project/"
+
+[[params.socialIcons]]
+icon = "fab fa-linkedin"
+title = "Linkedin"
+url = "https://www.linkedin.com/in/guillaume-van-putten-748564180/"
+
+[[params.socialIcons]]
+icon = "fas fa-envelope"
+title = "e-mail"
+url = "mailto:guillaume.van_putten@edu.devinci.fr"
+
+[[params.socialIcons]]
+icon = "fab fa-github"
+title = "GitHub"
+url = "https://github.com/guillaume-vp/computer_tech_project"

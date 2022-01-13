@@ -1,22 +1,20 @@
 ---
 title: "Robot host"
-location : "ESILV"
+location : "ESILV/DaVinciBot"
 date: 2022-01-10T19:59:08+01:00
 draft: false
 begin : 2020-10-01
 end: 2021-03-15
 ---
 
-Enim adipisicing in quis aute elit mollit enim commodo deserunt dolore et tempor exercitation laborum. Aliquip culpa irure dolor nulla excepteur laborum do commodo aute. Ut occaecat minim ut veniam. Enim ea sint consequat consequat aute consectetur.
+DeVinci Fablab and DaVinciBot are two associations that cohabit in the Fablab space located on the 5th floor of the Learning Center at the Pôle Léonard de Vinci.  DeVinci Fablab is an association of makers who are there to help students in their personal and professional projects while managing the 3D printing park. DaVinciBot is a robotics association which is represented by two projects that progress from year to year, namely the humanoid robot InMoov and the Robotics Cup. In addition to their individual progress, these two associations also have a common objective which is to make live the Fablab space in which they meet and help any person who would come to see them.  This is how the idea of a collaborative project, named Compagnon Espace Fablab, was born. 
 
-Veniam sint nostrud sit labore quis nostrud Lorem et reprehenderit Lorem. Anim dolor ad Lorem mollit dolor. Id exercitation consequat aute nisi adipisicing cillum veniam esse ea eiusmod occaecat sint occaecat.
+Our first objective is to create an interactive robot that allows visitors to get information about the equipment, the 3D printing system, the projects in progress while animating the Fablab space. The goal of this project is to integrate many new technologies such as Lifi, Leap Motion, Mapping, autonomous movement and many others to develop new areas of knowledge. 
 
-Consequat nulla officia nostrud enim. Aliquip duis velit et qui cillum. Duis reprehenderit velit dolor consectetur consequat. Sit pariatur aliquip adipisicing ullamco veniam proident fugiat do. Cupidatat et consectetur nostrud eiusmod ipsum cupidatat. Ullamco laborum mollit occaecat veniam non.
+Our project team is composed of two teams, the Robot team with Séfana, Léo, Baptiste, Alix and Guillaume and the HMI team with Sylwia, Solène, Quentin, Emma and Victor. 
 
-Commodo cupidatat ea laboris nulla sunt deserunt velit. Sunt velit adipisicing enim non excepteur do est officia dolore anim. Fugiat adipisicing dolore sunt aliqua nisi eu culpa mollit adipisicing. Aliquip Lorem sunt pariatur tempor consectetur excepteur minim sint. Magna ut do consectetur ipsum ullamco consequat. Cillum aliqua consectetur eu ipsum nulla velit anim. Exercitation id officia adipisicing aute id in incididunt dolore.
+The different stakeholders are our customers, the Devinci FabLab and DaVinci Bot, our users are the members of these associations as well as the visitors of the FabLab space. 
 
-Ipsum ad aliqua veniam cillum mollit laboris dolore. Ea labore et fugiat esse officia quis irure. Est mollit proident pariatur velit enim irure labore ut. Culpa id irure velit anim est irure esse dolor id eu.
+The robot team was in charge of the creation of a rolling base, the implementation of an electronic system, the servoing of motors and the detection of obstacles via mapping. The HMI team was in charge of designing a voice assistant capable of answering visitors' questions as well as a reception station capable of recognizing people by their first name. 
 
-Ullamco dolore ea laborum elit nisi consequat ad id quis enim. Ipsum ullamco deserunt enim in id Lorem. Qui cillum amet sunt magna excepteur.
-
-Adipisicing sit fugiat ut consequat non ex exercitation nostrud amet sint cupidatat labore aliqua cillum. Amet eiusmod commodo consectetur magna do culpa. Sint dolor occaecat est labore magna reprehenderit dolor proident aute ut sint proident. Laborum cupidatat mollit ut ipsum adipisicing culpa incididunt incididunt excepteur aute sint. Cupidatat et nisi id non amet dolore commodo nulla irure velit. Ex eu ullamco sunt ea culpa excepteur reprehenderit anim. Anim laborum et excepteur id id deserunt commodo consequat.
+As the project is very popular, there are already many other ideas of development and improvement for the future years as the development of interactive games with the robot (hide-and-seek, interactive questions...), recognition of emotions, the use of the robot to remind members of the events taking place in the Fablab, creation of other robots, an application that allows to direct all these small machines and many others...  

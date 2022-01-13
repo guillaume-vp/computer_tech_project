@@ -7,14 +7,27 @@ begin: 2019-10-01
 end: 2020-05-21
 ---
 
-Laborum laboris esse culpa irure excepteur non Lorem excepteur exercitation amet eiusmod minim exercitation in. Excepteur exercitation voluptate consequat eu elit consequat nisi. Ad pariatur aute officia nisi in incididunt amet ipsum fugiat consectetur deserunt anim commodo consequat. Voluptate ex velit esse anim ipsum. Nostrud occaecat sint aute aliquip fugiat laboris pariatur.
+SafeWay is a GPS application that favors safety instead of speed for the
+itineraries it offers and which also leans on its community to signal and
+report suspicious or dangerous behaviors.
 
-Nisi nisi veniam culpa id nostrud dolor officia consequat tempor elit commodo veniam proident excepteur. Incididunt nostrud enim sint qui nulla. Velit culpa voluptate in qui tempor non mollit sint. Culpa labore ullamco deserunt aliqua. Fugiat tempor enim ad magna non. Ipsum veniam reprehenderit veniam ad eiusmod enim exercitation sint laborum. Quis amet labore incididunt est consequat do.
+There are around a thousand assaults that occur every day in France. This
+number continues to increase by more than 10% each year for assaults
+on women of 18 to 30 years of age. At the same time, women’s speech
+liberation movements appear on social networks, such as #metoo or
+#balancetonporc. There are more women testifying regarding this
+increase and their feelings of insecurity.
 
-Laboris exercitation ex proident Lorem dolor mollit nulla aute ex. Voluptate aliquip labore elit nulla eu veniam Lorem aute irure reprehenderit nisi est adipisicing eu. Aliqua nostrud fugiat deserunt commodo velit eiusmod pariatur nostrud incididunt officia aliquip non dolor. Cillum pariatur elit eiusmod ipsum anim exercitation irure duis fugiat sunt aliquip enim consectetur.
+Insecurity is now seen as a societal issue. Some solutions have been
+created to reassure the population but most of them are ineffective or
+unsuitable. This is the reason why we feel it is important to work on this
+primary need of addressing the problem of security in our streets.
 
-Duis incididunt duis elit nulla Lorem do in fugiat mollit ad dolor ut ad. Consectetur excepteur consectetur duis sit adipisicing sit pariatur ullamco dolor laborum quis ullamco proident. Aute cillum id reprehenderit velit id. Tempor esse in aliqua nostrud voluptate Lorem sint enim sit dolor dolore qui in.
-
-Qui esse ea reprehenderit adipisicing elit cillum cillum velit excepteur qui et id do. Fugiat eu ad laborum cupidatat culpa ut commodo ea occaecat sint est non. Duis irure qui amet sunt magna minim non excepteur pariatur dolore. Esse esse in et cillum amet laboris laborum qui labore do. Minim proident qui nulla dolor ea exercitation reprehenderit cillum in aliquip qui esse cillum. Aute ex cupidatat enim proident qui duis deserunt duis enim.
-
-Proident mollit labore Lorem mollit officia. Est excepteur do magna eiusmod duis do non tempor officia ad. Veniam duis sunt eiusmod irure sint est commodo. Est non irure commodo voluptate. Non veniam est occaecat occaecat voluptate labore aute eiusmod minim sunt duis aliqua exercitation. Eu labore ut voluptate irure esse incididunt elit quis elit.
+Thanks to our application SafeWay, we wish to offer our users an answer
+to this additional need linked to safety: freedom of movement. The
+application offers our users a unique solution to reassure them in their
+daily movement and that way increase their safety. Thanks to predefined
+criteria (influx, luminosity, harassment and attack statistics, ...) the
+application will propose different itineraries ranked depending on their
+safety level. Other options will also enable you to follow a loved one’s
+movements and be able to report suspicious behavior.
